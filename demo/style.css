@@ -1,0 +1,26 @@
+.container {
+    width:1000px;
+    margin: 0 auto;
+    color: #333;
+    text-align:center;
+    font-family:monospace;
+    font-weight:bold;
+}  
+.y {
+    margin-top:10px;
+}
+.x12 {
+    background-color: #BBF;
+}   
+.x13 {
+    background-color: #FBF;
+}  
+.x23 {
+    background-color: #FBB;
+} 
+.x14 {
+    background-color: #BFB;
+}   
+.x34 {
+    background-color: #BFF;
+}
