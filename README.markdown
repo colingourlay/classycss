@@ -2,7 +2,6 @@ class="y" Css Framework
 =========================
 
 Copyright (c) 2009, Colin Gourlay
-Email: colin.j.gourlay@gmail.com
 
 class="y" is a simple fluid-width css framework for quickly injecting column-based grids into your html pages. Here's a quick example of class="y":
 
